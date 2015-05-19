@@ -75,10 +75,10 @@ gulp.task('webserver', function() {
 gulp.task('ftp', function () {
 	return gulp.src('dist/**/*')
 		.pipe(ftp({
-			host: 'ftp.byethost14.com',
-			user: 'b14_15828070',
-			pass: '1x2x3x4x5x6x',
-			remotePath: "/my-apps.cu.cc/htdocs/test"
+			host: '',
+			user: '',
+			pass: '',
+			remotePath: "/"
 		}))
 		.pipe(size());
 });
