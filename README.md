@@ -14,7 +14,7 @@ $ npm install --global gulp bower
 #### 2. Install package  npm devDependencies:
 
 ```sh
-$ npn install
+$ npm install
 ```
 
 #### 3. Install package  bower dependencies:
