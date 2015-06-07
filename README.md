@@ -8,7 +8,7 @@ Automate and enhance your workflow
 #### 1. Install gulp and bower globally:
 
 ```sh
-$ npm install --global gulp bower
+$ npm i -g gulp bower
 ```
 
 #### 2. Install package  npm devDependencies:
